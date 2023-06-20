@@ -264,6 +264,7 @@ link: https://lionelmc-pg-esperanza-vida-esperanza-vida-v2-1avwj4.streamlit.app/
 
 Siguiendo con el análisis de datos de nuestro proyecto, al momento de visualizar y tomar las mejores decisiones y plasmar toda la información recopilada. 
 
+---
 ### KPI
 El estudio fue realizado en países del continente americano y el continente de oceánico.
 #### ***Aumento del 1% en la ssperanza de vida(2.019 respecto del año 2.020):***
