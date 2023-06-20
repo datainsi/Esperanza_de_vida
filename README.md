@@ -131,7 +131,11 @@ Para el caso de esperanza de vida saludable, se obtuvieron datos de manera compl
 
 ## Diseño adecuado del Modelo ER:
 
-Para las estructuras de almacenamiento de datos, adoptaremos un modelo entidad-relación (ER). Diseñaremos y especificaremos las tablas, relaciones y tipos de datos necesarios para representar de manera adecuada los datos relacionados con la esperanza de vida al nacer.
+Después de enviar los datos a Azure SQL Database, es el momento de mejorar la estructura de la base de datos mediante la normalización. Para lograr esto, se han creado cuatro tablas dimensionales: "Country", "Region", "Indicadores" y "Category". Además, se han creado 15 tablas de datos, una por cada indicador, con los siguientes campos: "id_country", "id_region", "id_indicador", "id_category" y el valor del indicador.
+
+Es importante destacar que se ha implementado una clave surrogada utilizando el código del país y los dos últimos dígitos del año correspondiente. Esta clave proporciona un identificador único para cada registro. Las tablas dimensionales y las tablas de datos están relacionadas mediante claves primarias y foráneas.
+
+Gracias a este enfoque, se ha logrado una base de datos completamente normalizada y relacionada, lista para realizar análisis posteriormente mediante una conexión con Power BI.
 
 ---
 
@@ -203,13 +207,14 @@ Posterior a las transformaciones, procederemos a cargar los datos en nuestro Dat
 ## Data Warehouse:
 Estableceremos conexión con Azure Storage Blob utilizando las bibliotecas de Azure Storage Blobs Client. Para subir nuestro Data Warehouse a la nube.
 
-Implementaremos una estructura de Data Warehouse para almacenar los datos preparados y listos para su análisis. Para automatizar el proceso de carga y creación de tablas en una base de datos en Azure Synapse Analytics, utilizaremos Azure Data Factory.
+Implementaremos una estructura de Data Warehouse para almacenar los datos preparados y listos para su análisis. Para automatizar el proceso de carga y creación de una tablas  base de datos en Azure SQL DataBase, utilizaremos Azure Data Factory.
 
-Azure Data Factory es una herramienta de orquestación de datos en la nube, para crear un flujo de trabajo que nos permita extraer los datos de Azure Storage Blob y cargarlos en una base de datos en Azure Synapse Analytics.
+Azure Data Factory es una herramienta de orquestación de datos en la nube, para crear un flujo de trabajo que nos permita extraer los datos de Azure Storage Blob y cargarlos en una base de datos en Azure SQL DataBase.
 
 Azure Data Factory nos brinda la capacidad de definir tareas de extracción, transformación y carga de datos (ETL) dentro de nuestro flujo de trabajo.
 
-Una vez configurado el flujo de trabajo en Azure Data Factory, los datos se enviarán desde Azure Storage Blob a Azure Synapse Analytics. En este paso, se crearán las tablas en la base de datos de Azure Synapse Analytics
+Una vez configurado el flujo de trabajo en Azure Data Factory, los datos se enviarán desde Azure Storage Blob a Azure SQL DataBase.
+
 
 ---
 ## No automatización:
