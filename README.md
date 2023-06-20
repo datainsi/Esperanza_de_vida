@@ -8,8 +8,6 @@
     <img src="https://espaciomex.com/wp-content/uploads/2019/09/im_issuebrief__large.jpg" width="500" />
 </div>
 
-
-
 Somos una consultora especializada en análisis  y toma de decisiones basada en datos. Nuestro equipo está conformado por profesionales altamente capacitados y con amplia experiencia en proyectos de consultoría de datos, lo que nos permite abordar de manera integral proyectos de diversa complejidad y magnitud.
 
 Nuestra misión es ayudar a nuestros clientes a obtener información valiosa a partir de sus datos para mejorar su toma de decisiones y optimizar sus procesos. Nos destacamos por brindar soluciones personalizadas, adaptadas a las necesidades y objetivos específicos de cada cliente. Trabajamos de manera colaborativa, estableciendo una estrecha relación con nuestros clientes para comprender a fondo su problemática y ofrecerles las mejores soluciones.
@@ -58,7 +56,7 @@ Los indicadores clave de rendimiento o, más comúnmente conocidos KPIs, son ind
 La metodología de determinación de KPI sigue el concepto de los reconocidos objetivos SMART.  El acrónimo S (specific) específico, M (Mesurable) medible, A (Attainable) alcanzable, R (Relevant) relevante, T (Time-bound) con limite de tiempo.
 
 ---
-# LLENAR DAVID
+
 `Esperanza de vida saludable` - KPI aumento 0.1% comparando dos últimos años con datos. Es una medida que combina la esperanza de vida al nacer con la proporción de años vividos en buena salud. El índice de esperanza de vida saludable proporciona una visión más completa de la salud de una población al considerar tanto la duración como la calidad de vida.  
 `Mortalidad Infantil` - KPI disminución 0.1% tasa de mortalidad infantil comparando dos últimos años con datos. Es la cantidad de niños que mueren antes de cumplir un año de edad por cada 1,000 nacidos vivos. Es un KPI crítico para evaluar la calidad de los servicios de atención médica materno-infantil y la salud general de la población.
 `Mortalidad materna`  
@@ -72,7 +70,6 @@ Para el caso de esperanza de vida saludable, se obtuvieron datos de manera compl
 ⦁	KPI: Disminución del 0,1% de la tasa de fecundidad en mujeres de edad 15 a 19 años.(verificar la data) 
 
 ⦁	KPI: Aumento del 0,1% de la tasa de fecundidad en mujeres mayores a 30 años(verificar la data)
-
 
 ---
 
