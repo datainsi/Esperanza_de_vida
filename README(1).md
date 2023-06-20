@@ -154,7 +154,7 @@ Se pide respuesta a la url donde se encuentra el archivo con el indicador pedido
 
 
 `Limpieza de datos:` Limpiar datos para su posterior uso.  
-
+---
 
 ## Pipelines para alimentar el Data Lake:
 
@@ -187,10 +187,11 @@ La automatización de los procesos de ETL es una estrategia valiosa cuando se tr
 
 `Costo y recursos:` La implementación de una automatización completa de los procesos de ETL implica invertir en herramientas, infraestructura y recursos humanos. Si los datos se cargan con baja frecuencia, destinar recursos significativos para desarrollar y mantener la automatización puede no ser justificado desde una perspectiva de costos.
 
+---
 ## Producto final
-
+---
 ### Modelos de aprendizaje automatico
-
+---
 ### Modelo no supervisado:
 El modelo KNN no se utiliza para la clasificación, regresión o clustering. En cambio, utiliza el modelo KNN para encontrar los indicadores más influyentes para la esperanza de vida en un conjunto de datos.
 
@@ -267,7 +268,7 @@ Este estudio se realizo con el objetivo de incrementar la tasa de fecundidad en 
 
 
 
-
+---
 ### Contenido del repositorio
 
 -EDA(Exploratory data analysis)  
