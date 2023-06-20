@@ -298,12 +298,15 @@ Este estudio se realizo con el objetivo de incrementar la tasa de fecundidad en 
 
 ### Contenido del repositorio
 
--EDA(Exploratory data analysus)
--ETL
+-EDA(Exploratory data analysis)
+-ETL(Extract, Transform, Load)
 -Modelo de aprensizaje automatico(Streamlit)
 -Archivo final en formato csv (DATA_PF_IV.csv)
 -Diagrama de Gantt.
--Modelo Trello
+-Metodología SCRAUM(Herramienta Trello)
+-Dashboard interactivo(PowerBI)
+-Documentacion entregable de a semana del pryecto.
+-Documentación final(Resumen de la documentación del entregable)
 -README.md
 
 
