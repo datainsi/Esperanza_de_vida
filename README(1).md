@@ -282,11 +282,11 @@ Objetivo esperanza de vida saludable
 ---
 #### ***Disminución de la tasa de mortalidad infantil(2.019 respecto del año 2.020):***
 El tercer objetivo a analizar en cuestión fue la tasa de mortalidad infantil, observando y analizando su evolución en los últimos 30 años. Para este análisis se opto por mencionar a los  países con mayor y menor tasa y ver su evolución a través del tiempo.  
-En el caso de Oceanía, notamos un gran contraste entre países como PAPUA NEW GUINEA y AUSTRALIA, siendo ésta primero una media de 50.50 con respecto a la segunda 4.80.
+En el caso de Oceanía, notamos un gran contraste entre países como Papua Nueva Guinea y Australia, siendo ésta primero una media de 50,50 con respecto a la segunda 4,80.
 Si bien en los últimos años se registra una disminución de este valor, no deja de sorprender la diferencia entre ambos países en estudio.  
 Siguiendo con el estudio en cuestión, en el caso de Sudamérica, quien lidera este análisis es Bolivia. Se estima que las enfermedades como la Neumonía, enfermedades Diarreica, y distintas dificultades al nacer son las principales causas en este dato, así como los factores socio-económicos y culturales.  
 En el caso de Centroamérica, quien lidera este top es Haití, con una media de 68,20 por cada mil niños, se convierte en el país con mayor tasa de mortalidad infantil, debido a lo mencionado en los primeros párrafos.  
-Para terminar, no podemos dejar afuera a dos potencias como Canadá y Estados Unidos, siendo los dos países con menor tasa de mortalidad infantil (5.30 Canadá ;6.80 Estado unidos de America)  ,dato muy importante por si piensas tener hijos.
+Para terminar, no podemos dejar afuera a dos potencias como Canadá y Estados Unidos, siendo los dos países con menor tasa de mortalidad infantil (5,30 Canadá ;6,80 Estado Unidos de America)  ,dato muy importante por si piensas tener hijos.
 
 #### ***Aumento del 1% en la tasa de fecundidad(2.019 respecto del año 2.020):***
 Para terminar, se decidió analizar aquellos países con menor tasa de fecundación en los últimos años, notamos que en América del sur no hubo grandes diferencia en relación de un país a otro.  
