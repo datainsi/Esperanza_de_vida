@@ -267,6 +267,8 @@ Siguiendo con el análisis de datos de nuestro proyecto, al momento de visualiza
 ---
 ### KPI
 El estudio fue realizado en países del continente americano y el continente de oceánico.
+
+---
 #### ***Aumento del 1% en la ssperanza de vida(2.019 respecto del año 2.020):***
  Optamos por este alcance ya que notamos un gran contraste entre países de centro-Latinoamérica e islas de Oceanía con respecto a Norteamérica y países como Australia.  
 En el caso de Norteamérica (Canadá y Estados Unidos, el comportamiento de la esperanza de vida fue ascendiendo en los últimos 30 años de manera gradual, reconociendo que las mujeres que a nivel general las mujeres tienen una mayor esperanza de vida en promedio que los hombres debido a un sinfín de razones. Cabe remarcar que Canadá es quien lidera el ranking en este sentido, ya que la esperanza de vida a nivel general es de 80 años, siendo así  las mujeres con una mayor cantidad de años de esperanza de vida al nacer (84 años).  
