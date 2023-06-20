@@ -59,23 +59,17 @@ La metodología de determinación de KPI sigue el concepto de los reconocidos ob
 
 ---
 
-`Esperanza de vida al nacer:` - Objetivo incremento del 1% del año 2019 respecto delaño 2020. Es el indicador principal que mide la esperanza de vida promedio de una población al nacer. Es un KPI fundamental para evaluar la salud y el bienestar general de una población.  
+`Esperanza de vida al nacer(años):` - Objetivo incremento del 1% del año 2019 respecto delaño 2020. Es el indicador principal que mide la esperanza de vida promedio de una población al nacer. Es un KPI fundamental para evaluar la salud y el bienestar general de una población.  
 
 Para el caso de esperanza de vida saludable, se obtuvieron datos de manera completa y concisa, de los países del continente americano. Si bien, no notamos cambios significativos en el tiempo, cabe remarcar que países como Canadá, representa una esperanza de vida saludable  de 69 años. Esto lo posiciona como el país con mejor esperanza de vida saludable. 
 
-`Esperanza de vida saludable` - Objetivo aumento 1% del año 2019 respecto del año 2020. Es una medida que combina la esperanza de vida al nacer con la proporción de años vividos en buena salud. El índice de esperanza de vida saludable proporciona una visión más completa de la salud de una población al considerar tanto la duración como la calidad de vida.  
-`Mortalidad Infantil` - KPI disminución 0.1% tasa de mortalidad infantil comparando dos últimos años con datos. Es la cantidad de niños que mueren antes de cumplir un año de edad por cada 1,000 nacidos vivos. Es un KPI crítico para evaluar la calidad de los servicios de atención médica materno-infantil y la salud general de la población.
-`Mortalidad materna`  
+`Esperanza de vida saludable(años):` - Objetivo aumento 1% del año 2019 respecto del año 2020. Es una medida que combina la esperanza de vida al nacer con la proporción de años vividos en buena salud. El índice de esperanza de vida saludable proporciona una visión más completa de la salud de una población al considerar tanto la duración como la calidad de vida.  
+`Tasa mortalidad infantil` - Objetivo disminución 1% tasa de mortalidad infantil comparando dos últimos años con datos. Es la cantidad de niños que mueren antes de cumplir un año de edad por cada 1,000 nacidos vivos. Es un KPI crítico para evaluar la calidad de los servicios de atención médica materno-infantil y la salud general de la población.
 
 
-`Incremento de la Esperanza de vida al nacer(1%):` Es el indicador principal que mide la esperanza de vida promedio de una población al nacer. Es un KPI fundamental para evaluar la salud y el bienestar general de una población.  
-
-Para el caso de esperanza de vida saludable, se obtuvieron datos de manera completa y concisa, de los países del continente americano. Si bien, no notamos cambios significativos en el tiempo, cabe remarcar que países como Canadá, representa una esperanza de vida saludable  de 69 años. Esto lo posiciona como el país con mejor esperanza de vida saludable. 
 
 
-⦁	KPI: Disminución del 0,1% de la tasa de fecundidad en mujeres de edad 15 a 19 años.(verificar la data) 
 
-⦁	KPI: Aumento del 0,1% de la tasa de fecundidad en mujeres mayores a 30 años(verificar la data)
 
 
 ---
