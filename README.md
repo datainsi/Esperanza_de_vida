@@ -124,8 +124,7 @@ Para el caso de esperanza de vida saludable, se obtuvieron datos de manera compl
 ---
 ## Equipo de trabajo - Roles y responsabilidades:
 `Data Engineer:` Encargado de diseñar e implementar los pipelines de ETL y configurar la infraestructura de datos.  
-`Data Analyst:` Responsable del análisis exploratorio de datos, modelado estadístico y desarrollo de modelos predictivos.  
-`Data Visualizer:` Encargado de crear visualizaciones y el dashboard interactivo para presentar los resultados del análisis.  
+`Data Analyst:` Responsable del análisis exploratorio de datos, modelado estadístico y desarrollo de modelos predictivos.   
 `Functional Analyst:` Asegurar de que el proyecto progrese de manera efectiva y se alcancen los objetivos establecidos al asumir diferentes roles.  
  
 ---
