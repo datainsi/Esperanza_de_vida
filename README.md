@@ -135,10 +135,12 @@ link gantt: https://app.teamgantt.com/projects/gantt?ids=3553277
 
 El camino recorrido para la ejecucion de esta consultoria fueron la siguientes:  
 
+---
 ### Análisis preliminar de calidad de datos:
 Realizaremos un análisis detallado de los datos con los que vamos a trabajar. Analizaremos  la descripción de cada indicador, los tipos de datos, el método de adquisición y las fechas de adquisición y actualización.
 Para la recopilación y el análisis de los datos, decidimos basarnos en la base de datos brindada por el Banco Mundial y la Organización Mundial de la Salud (WHO) dado que la confianza y transparencia de su información.
 
+---
 ### Recopilacion y extracción de datos
 
 `Variedad de fuentes de datos:`Al utilizar tanto la descarga de archivos CSV del Banco Mundial como la API de la OMS, se ha aprovechado la variedad de fuentes de datos disponibles. Esto permite obtener información diversa y enriquecedora de diferentes organismos y fuentes confiables, lo que a su vez mejora la calidad y la relevancia de los datos extraídos.
@@ -153,8 +155,8 @@ Se pide respuesta a la url donde se encuentra el archivo con el indicador pedido
 
 
 `Limpieza de datos:` Limpiar datos para su posterior uso.  
----
 
+---
 ## Pipelines para alimentar el Data Lake:
 
 Desarrollaremos pipelines de extracción, transformación y carga (ETL) para alimentar el Data Lake. Estos pipelines automatizan el proceso de integración y limpieza de los datos, asegurando la calidad de los mismos. Esto proceso se hará de manera local.
@@ -236,7 +238,6 @@ Otro valor atípico que encontramos dentro de nuestro análisis y que creemos qu
 En el caso de Sudamérica y demás países, no encontramos variaciones significativas en el tiempo, cabe remarcar que no tienen mismo nivel de esperanza de vida al nacer de países como Canadá o Australia, pero en los últimos años se está viendo un crecimiento de manera gradual.  
 El objetivo de estudiar el comportamiento de este indicador a través de los años, es lograr un crecimiento significativo a para los próximos años
 
-
 ---
 #### ***Aumento del 1% en la Esperanza de vida saludable(2.019 respecto del año 2.020):***
 Para el caso de esperanza de vida saludable, se obtuvieron datos de manera completa y concisa, de los países del continente americano. Si bien, no notamos cambios significativos en el tiempo, cabe remarcar que países como Canadá, representa una esperanza de vida saludable  de 69 años. Esto lo posiciona como el país con mejor esperanza de vida saludable. 
@@ -252,6 +253,7 @@ Siguiendo con el estudio en cuestión, en el caso de Sudamérica, quien lidera e
 En el caso de Centroamérica, quien lidera este top es Haití, con una media de 68,20 por cada mil niños, se convierte en el país con mayor tasa de mortalidad infantil, debido a lo mencionado en los primeros párrafos.  
 Para terminar, no podemos dejar afuera a dos potencias como Canadá y Estados Unidos, siendo los dos países con menor tasa de mortalidad infantil (5,30 Canadá ;6,80 Estado Unidos de America)  ,dato muy importante por si piensas tener hijos.
 
+---
 #### ***Aumento del 1% en la tasa de fecundidad(2.019 respecto del año 2.020):***
 Para terminar, se decidió analizar aquellos países con menor tasa de fecundación en los últimos años, notamos que en América del sur no hubo grandes diferencia en relación de un país a otro.  
 En el caso de Centro y Norte América, cabe destacar países como Cuba y Canadá, si bien las circunstancias son incontables, notamos un gran contraste en relación a la calidad de vida en uno y otro. Cabe remarcar que la tasa en Cuba es de 11,80 por cada mil mujeres, y en Canadá de 11,00 (por cada mil mujeres) en el primer caso se debe a los factores socio-económicos a la constante migración.   
@@ -268,7 +270,7 @@ Este estudio se realizo con el objetivo de incrementar la tasa de fecundidad en 
 
 
 ---
-### Contenido del repositorio
+### Contenido del GitHub
 
 -EDA(Exploratory data analysis)  
 -ETL(Extract, Transform, Load)  
