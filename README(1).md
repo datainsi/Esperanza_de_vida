@@ -170,6 +170,10 @@ link Trello:https://trello.com/b/hON6bmVO/pg-esperanza-de-vida
 Para obtener una idea global de la distribución y organización de tiempo y esfuerzo de trabajo de las diferentes tareas, se desarrolló un gráfico de gantt.  
 link gantt: https://app.teamgantt.com/projects/gantt?ids=3553277  
 
+<div style="text-align:center;">
+    <img src="images/gantt.png" width="500" />
+</div>
+
 El camino recorrido para la ejecucion de esta consultoria fue la siguientes:  
 
 ### Análisis preliminar de calidad de datos:
