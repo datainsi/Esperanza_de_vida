@@ -112,7 +112,6 @@ Para el caso de esperanza de vida saludable, se obtuvieron datos de manera compl
 `Functional Analyst:` Asegurar de que el proyecto progrese de manera efectiva y se alcancen los objetivos establecidos al asumir diferentes roles.  
  
 ---
-
 ## Diseño adecuado del Modelo ER:
 
 Después de enviar los datos a Azure SQL Database, es el momento de mejorar la estructura de la base de datos mediante la normalización. Para lograr esto, se han creado cuatro tablas dimensionales: "Country", "Region", "Indicadores" y "Category". Además, se han creado 15 tablas de datos, una por cada indicador, con los siguientes campos: "id_country", "id_region", "id_indicador", "id_category" y el valor del indicador.
@@ -122,7 +121,6 @@ Es importante destacar que se ha implementado una clave surrogada utilizando el 
 Gracias a este enfoque, se ha logrado una base de datos completamente normalizada y relacionada, lista para realizar análisis posteriormente mediante una conexión con Power BI.
 
 ---
-
 ## Etapas del proyecto 
 Para la división y el cronograma de trabajo se utilizaron Trello y la metodolgía SCRUM del trabajo en nuestro equipo.  
 link Trello:https://trello.com/b/hON6bmVO/pg-esperanza-de-vida  
