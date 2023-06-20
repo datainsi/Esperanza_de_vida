@@ -204,6 +204,7 @@ En resumen, el modelo utiliza el modelo KNN para encontrar indicadores similares
 
 link: https://perico3372-life-expectancy-streamlit-1r8po5.streamlit.app/
 
+---
 ### Modelo supervisado:
 El modelo realizo un análisis de series de tiempo y pronósticos de esperanza de vida al nacer utilizando el modelo ARIMA. 
 ARIMA (AutoRegressive Integrated Moving Average) es un modelo estadístico utilizado para el análisis y pronóstico de series de tiempo. Combina componentes autoregresivos (AR), componentes de media móvil (MA) y diferenciación para modelar patrones y tendencias en los datos de series de tiempo.
