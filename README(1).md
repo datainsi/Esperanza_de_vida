@@ -8,8 +8,6 @@
     <img src="https://espaciomex.com/wp-content/uploads/2019/09/im_issuebrief__large.jpg" width="500" />
 </div>
 
-
-
 Somos una consultora especializada en análisis  y toma de decisiones basada en datos. Nuestro equipo está conformado por profesionales altamente capacitados y con amplia experiencia en proyectos de consultoría de datos, lo que nos permite abordar de manera integral proyectos de diversa complejidad y magnitud.
 
 Nuestra misión es ayudar a nuestros clientes a obtener información valiosa a partir de sus datos para mejorar su toma de decisiones y optimizar sus procesos. Nos destacamos por brindar soluciones personalizadas, adaptadas a las necesidades y objetivos específicos de cada cliente. Trabajamos de manera colaborativa, estableciendo una estrecha relación con nuestros clientes para comprender a fondo su problemática y ofrecerles las mejores soluciones.
@@ -27,8 +25,6 @@ Con el modelo de ML trataremos de resolver estos interrogantes
 ¿Cuáles son las características predominantes para que un país tenga mayor esperanza de vida?
 
 Para la realización de este proyecto utilizamos principalmente las siguientes fuentes.
-
-
 
 Banco mundial: https://data.worldbank.org/
 
@@ -65,15 +61,6 @@ Para el caso de esperanza de vida saludable, se obtuvieron datos de manera compl
 
 `Esperanza de vida saludable(años):` - Objetivo aumento 1% del año 2019 respecto del año 2020. Es una medida que combina la esperanza de vida al nacer con la proporción de años vividos en buena salud. El índice de esperanza de vida saludable proporciona una visión más completa de la salud de una población al considerar tanto la duración como la calidad de vida.  
 `Tasa mortalidad infantil` - Objetivo disminución 1% tasa de mortalidad infantil comparando dos últimos años con datos. Es la cantidad de niños que mueren antes de cumplir un año de edad por cada 1,000 nacidos vivos. Es un KPI crítico para evaluar la calidad de los servicios de atención médica materno-infantil y la salud general de la población.
-
-
-
-
-
-
-
----
-
 
 ---
 ## Stack tecnológico:
@@ -174,7 +161,7 @@ link gantt: https://app.teamgantt.com/projects/gantt?ids=3553277
     <img src="images/gantt.png" width="500" />
 </div>
 
-El camino recorrido para la ejecucion de esta consultoria fue la siguientes:  
+El camino recorrido para la ejecucion de esta consultoria fueron la siguientes:  
 
 ### Análisis preliminar de calidad de datos:
 Realizaremos un análisis detallado de los datos con los que vamos a trabajar. Analizaremos  la descripción de cada indicador, los tipos de datos, el método de adquisición y las fechas de adquisición y actualización.
@@ -218,7 +205,7 @@ Una vez configurado el flujo de trabajo en Azure Data Factory, los datos se envi
 
 
 ---
-## No automatización:
+## Automatización:
 
 La automatización de los procesos de ETL es una estrategia valiosa cuando se trata de manejar grandes volúmenes de datos que requieren actualizaciones frecuentes. Sin embargo, en el caso específico donde los datos se cargan con una frecuencia muy baja, no es necesario implementar una automatización completa por las siguientes razones:
 
@@ -230,7 +217,7 @@ La automatización de los procesos de ETL es una estrategia valiosa cuando se tr
 
 ## Producto final
 
-## Modelos de aprendizaje automatico
+### Modelos de aprendizaje automatico
 
 ### Modelo no supervisado:
 El modelo KNN no se utiliza para la clasificación, regresión o clustering. En cambio, utiliza el modelo KNN para encontrar los indicadores más influyentes para la esperanza de vida en un conjunto de datos.
@@ -270,7 +257,7 @@ El estudio fue realizado en países del continente americano y el continente de 
 
 ---
 #### ***Aumento del 1% en la ssperanza de vida(2.019 respecto del año 2.020):***
- Optamos por este alcance ya que notamos un gran contraste entre países de centro-Latinoamérica e islas de Oceanía con respecto a Norteamérica y países como Australia.  
+Optamos por este alcance ya que notamos un gran contraste entre países de centro-Latinoamérica e islas de Oceanía con respecto a Norteamérica y países como Australia.  
 En el caso de Norteamérica (Canadá y Estados Unidos, el comportamiento de la esperanza de vida fue ascendiendo en los últimos 30 años de manera gradual, reconociendo que las mujeres que a nivel general las mujeres tienen una mayor esperanza de vida en promedio que los hombres debido a un sinfín de razones. Cabe remarcar que Canadá es quien lidera el ranking en este sentido, ya que la esperanza de vida a nivel general es de 80 años, siendo así  las mujeres con una mayor cantidad de años de esperanza de vida al nacer (84 años).  
 En el caso de centro-américa pasa algo similar como en las pequeñas islas de Oceanía, destacándose Haití como el promedio más bajo, debido al terremoto en el año 2010 ocurrido en la capital haitiana de Puerto Príncipe, que dejó un saldo de más de 300.000 víctimas y 350.000 heridos según datos de la ONU. Esto impacta notablemente dentro de nuestro indicador a analizar.  
 Otro valor atípico que encontramos dentro de nuestro análisis y que creemos que es importante  fue en el 1998, en el país de Honduras, donde obtuvimos un pico de 5.1 puntos, esto se produjo debido al Huracán de Mitch producido en dicho país, que se cargó de aproximadamente 19.000 víctimas, dejando daños devastadores en la sociedad.
@@ -311,10 +298,7 @@ Este estudio se realizo con el objetivo de incrementar la tasa de fecundidad en 
 
 
 
-
-
-
-`Modelado y análisis:` Desarrollar modelos estadísticos y de aprendizaje automático para comprender los factores que influyen en la esperanza de vida.    
+  
 
 `Dashboard de visualización:` Crear un dashboard interactivo que presente los resultados del análisis y permita explorar los datos.    
 
