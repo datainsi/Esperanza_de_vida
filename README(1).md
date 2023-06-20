@@ -123,33 +123,6 @@ Gracias a este enfoque, se ha logrado una base de datos completamente normalizad
 
 ---
 
-
-
-
-
-# VER
-
-## Información contiene este repositorio 
-
-◌ Dentro de las carpetas "Sprint Semanal" encontrarán:
-
-    Bitácora diaria detallando integramente el trabajo diario requerido por el proceso desde el primer hasta el último día.
-    El apoyo visual para las presentaciones de final de Sprint ante el PO.
-    El reporte oficial sobre los requerimientos del Sprint.
-    Entregables específicos del Sprint.
-
-◌ Dentro de la carpeta EDA, se encuentran:
-
-    Todas las bases de datos utilizadas para el proceso, en formato .csv.
-    El código de todo el proceso de Análisis Exploratorio de Datos, comentado y detallando paso a paso el proceso.
-
-◌ En la carpeta entregable final, se encuentra:
-
-    El reporte oficial, que contiene toda la información completa y detallada del workflow, el ciclo de vida del dato y los hallazgos producto de nuestros análisis.
-    Código del front de nuestra URL.
-    El apoyo visual para la presentación final.
-
-
 ## Etapas del proyecto 
 Para la división y el cronograma de trabajo se utilizaron Trello y la metodolgía SCRUM del trabajo en nuestro equipo.  
 link Trello:https://trello.com/b/hON6bmVO/pg-esperanza-de-vida  
@@ -202,7 +175,6 @@ Azure Data Factory es una herramienta de orquestación de datos en la nube, para
 Azure Data Factory nos brinda la capacidad de definir tareas de extracción, transformación y carga de datos (ETL) dentro de nuestro flujo de trabajo.
 
 Una vez configurado el flujo de trabajo en Azure Data Factory, los datos se enviarán desde Azure Storage Blob a Azure SQL DataBase.
-
 
 ---
 ## Automatización:
