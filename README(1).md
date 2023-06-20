@@ -288,18 +288,6 @@ Este estudio se realizo con el objetivo de incrementar la tasa de fecundidad en 
 
 
 
-
-
-
-
-
-
-
-
-
-
-  
-
 `Dashboard de visualización:` Crear un dashboard interactivo que presente los resultados del análisis y permita explorar los datos.    
 
 `Informe y recomendaciones:` Documentar los hallazgos del análisis y proporcionar recomendaciones basadas en los resultados.  
@@ -308,8 +296,15 @@ Este estudio se realizo con el objetivo de incrementar la tasa de fecundidad en 
 
 
 
+### Contenido del repositorio
 
-
+-EDA(Exploratory data analysus)
+-ETL
+-Modelo de aprensizaje automatico(Streamlit)
+-Archivo final en formato csv (DATA_PF_IV.csv)
+-Diagrama de Gantt.
+-Modelo Trello
+-README.md
 
 
 
