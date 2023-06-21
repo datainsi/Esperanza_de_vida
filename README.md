@@ -98,13 +98,7 @@ Para el caso de esperanza de vida saludable, se obtuvieron datos de manera compl
 <div style="text-align:center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" width="200" />
 </div>
-
----
-## Diseño detallado 
-`Análisis exploratorio de datos:` Documento que detalla el proceso de limpieza y exploración de los datos.    
-`Modelos estadísticos y de aprendizaje automático:` Informe que describe los modelos desarrollados y los resultados obtenidos.    
-`Dashboard interactivo:` Presentación visual de los resultados del análisis, incluyendo gráficos y visualizaciones interactivas.    
-`Informe final y recomendaciones:` Documento que resume los hallazgos del análisis y proporciona recomendaciones basadas en los resultados.    
+ 
 
 ---
 ## Equipo de trabajo - Roles y responsabilidades:
