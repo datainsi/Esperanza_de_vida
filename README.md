@@ -264,7 +264,7 @@ Este estudio se realizo con el objetivo de incrementar la tasa de natalidad en a
 
 -EDA(Exploratory data analysis)  
 -ETL(Extract, Transform, Load)  
--Modelo de aprensizaje automatico(Streamlit)   
+-Modelo de aprendizaje automatico(Streamlit)   
 -Archivo final en formato csv (DATA_PF_IV.csv)  
 -Diagrama de Gantt.  
 -Metodología SCRAUM(Herramienta Trello)  
