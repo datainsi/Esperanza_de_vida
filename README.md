@@ -59,9 +59,9 @@ La metodología de determinación de KPI sigue el concepto de los reconocidos ob
 Para el caso de esperanza de vida saludable, se obtuvieron datos de manera completa y concisa, de los países del continente americano. Si bien, no notamos cambios significativos en el tiempo, cabe remarcar que países como Canadá, representa una esperanza de vida saludable  de 69 años. Esto lo posiciona como el país con mejor esperanza de vida saludable. 
 
 `Esperanza de vida saludable(años):` - Objetivo aumento 1% del año 2019 respecto del año 2020. Es una medida que combina la esperanza de vida al nacer con la proporción de años vividos en buena salud. El índice de esperanza de vida saludable proporciona una visión más completa de la salud de una población al considerar tanto la duración como la calidad de vida.  
-`Tasa mortalidad infantil` - Objetivo disminución 1% tasa de mortalidad infantil comparando dos últimos años con datos. Es la cantidad de niños que mueren antes de cumplir un año de edad por cada 1,000 nacidos vivos. Es un KPI crítico para evaluar la calidad de los servicios de atención médica materno-infantil y la salud general de la población.
+`Tasa mortalidad infantil(%)` - Objetivo disminución 1% tasa de mortalidad infantil comparando dos últimos años con datos. Es la cantidad de niños que mueren antes de cumplir un año de edad por cada 1,000 nacidos vivos. Es un KPI crítico para evaluar la calidad de los servicios de atención médica materno-infantil y la salud general de la población.
 
-`Tasa de fecundidad:()` - Objetivo incremento 1% 2.019 respecto del año 2.020. Es un indicador demográfico que se define como el número medio de hijos por mujer. 
+`Tasa de natalidad:(1 por cada 1000 habitantes)` - Objetivo incremento 1% 2.019 respecto del año 2.020. Es un indicador demográfico que se define como el número medio de hijos por mujer. 
 
 ---
 ## Stack tecnológico:
@@ -256,19 +256,14 @@ Para terminar, no podemos dejar afuera a dos potencias como Canadá y Estados Un
 
 ---
 #### ***Aumento del 1% en la tasa de fecundidad(2.019 respecto del año 2.020):***
-Para terminar, se decidió analizar aquellos países con menor tasa de fecundación en los últimos años, notamos que en América del sur no hubo grandes diferencia en relación de un país a otro.  
-En el caso de Centro y Norte América, cabe destacar países como Cuba y Canadá, si bien las circunstancias son incontables, notamos un gran contraste en relación a la calidad de vida en uno y otro. Cabe remarcar que la tasa en Cuba es de 11,80 por cada mil mujeres, y en Canadá de 11,00 (por cada mil mujeres) en el primer caso se debe a los factores socio-económicos a la constante migración.   
+Para terminar, se decidió analizar aquellos países con menor tasa de natalidad en los últimos años, notamos que en América del sur no hubo grandes diferencia en relación de un país a otro.  
+En el caso de Centro y Norte América, cabe destacar países como Cuba y Canadá, si bien las circunstancias son incontables, notamos un gran contraste en relación a la calidad de vida en uno y otro. Cabe remarcar que la tasa en Cuba es de 11,80 por cada mil habitantes, y en Canadá de 11,00 (por cada mil habitantes) en el primer caso se debe a los factores socio-económicos a la constante migración.   
 Por último, en el caso de Oceanía, quien lidera este ranking como menor tasa de fecundidad es Australia, un país altamente desarrollado y con una alta calidad de esperanza de vida
-Este estudio se realizo con el objetivo de incrementar la tasa de fecundidad en aquellos países que tienen una muy baja tasa de fecundidad.  
-
-
+Este estudio se realizo con el objetivo de incrementar la tasa de natalidad en aquellos países que tienen una muy baja tasa de natalidad.  
 
 `Dashboard de visualización:` Crear un dashboard interactivo que presente los resultados del análisis y permita explorar los datos.    
 
 `Informe y recomendaciones:` Documentar los hallazgos del análisis y proporcionar recomendaciones basadas en los resultados.  
-
-
-
 
 ---
 ### Contenido del GitHub
