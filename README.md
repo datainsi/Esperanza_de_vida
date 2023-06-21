@@ -44,7 +44,7 @@ Organización mundial de la salud: https://www.who.int/
 ---
 
 ## Alcance:
-Recopilar y analizar datos demográficos, como la esperanza de vida al nacer, esperanza de vida saludable, el índice de envejecimiento y otros, de diferentes fuentes confiables.
+Recopilar y analizar datos demográficos, como la esperanza de vida al nacer, esperanza de vida saludable, latasa de mortalidad infanil y la tasa de natalidad, de diferentes fuentes confiables.
 El estudio se centrará en países de América del Sur, América del Norte, Centroamérica y Oceanía, utilizando datos recopilados durante los últimos 30 años.
 Como posibilidad de continuidad del proyecto, se plantea la expansión a otros países de los otros continentes o la inclusión de factores adicionales.
 
