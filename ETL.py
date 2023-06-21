@@ -11,7 +11,7 @@ import wbgapi as wb
 ### Cargando los datos extraídos de manera estática.
 df_csv = pd.read_csv("Tendencia_LE_y_HALE_data.csv", sep= ";")
 
-#### Extraemos el dataset mediante la libreria que te propoeciona la data de una API.
+#### Extraemos el dataset mediante la libreria que te propoeciona la data del API del Banco Mundial.
 # Considerando como cliente a Pfizer delimitamos los indicadores.
 indicators = [
     'SP.DYN.CBRT.IN', 'SP.DYN.CDRT.IN', 'SP.DYN.TFRT.IN', 'SP.DYN.LE00.FE.IN', 'SP.DYN.LE00.MA.IN',
