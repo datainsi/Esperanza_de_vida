@@ -39,7 +39,7 @@ Organización mundial de la salud: https://www.who.int/
 ## Objetivos:
 1. Analizar las tendencias actuales de la esperanza de vida en diferentes países y regiones.
 2. Identificar los factores determinantes de la esperanza de vida, como las tasas de mortalidad infantil, la calidad de los servicios de atención médica, el acceso a servicios básicos de salud y otros indicadores relevantes.
-3. Proporcionar recomendaciones para el desarrollo del nuevo medicamento que promueve la fertilidad y la vitalidad en hombres y mujeres.
+3. Proporcionar recomendaciones para el desarrollo del nuevo medicamento que promueva la natalidad y una mejora en calidad de vida de las personas.
 
 ---
 
