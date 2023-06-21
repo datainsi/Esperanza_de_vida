@@ -19,7 +19,7 @@ La empresa farmacéutica Pfizer ha delineado su objetivo de desarrollar un nuevo
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pfizer.svg/1000px-Pfizer.svg.png" width="200" />
 </div>
 
-Para lograr este objetivo, Pfizer ha contratado a nuestra consultora, con el fin de realizar un estudio sobre la esperanza de vida y otros indicadores relevantes para comprender los factores que influyen en la vitalidad de las personas.
+Para lograr este objetivo, Pfizer ha contratado a nuestra consultora, con el fin de realizar un estudio sobre la esperanza de vida y otros indicadores relevantes para comprender los factores que influyen en la vida de las personas.
 Con el modelo de ML trataremos de resolver estos interrogantes
 ¿Qué hace que un país tenga mayor esperanza de vida?
 ¿Cuáles son las características predominantes para que un país tenga mayor esperanza de vida?
