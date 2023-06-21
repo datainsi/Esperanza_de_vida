@@ -14,7 +14,7 @@ Nuestra misión es ayudar a nuestros clientes a obtener información valiosa a p
 
 ---
 ## Entendimiento de la situación actual:
-La empresa farmacéutica Pfizer ha delineado su objetivo de desarrollar un nuevo medicamento. Para dar inicio a la planificación de este proyecto, la empresa requiere recopilar datos relevantes que influyan en la esperanza de vida, tasas de fecundidad promedio y otros factores demográficos clave. Esta información será fundamental para determinar la ubicación demográfica más adecuada en la cual invertir y llevar a cabo el desarrollo del medicamento.
+La empresa farmacéutica Pfizer ha delineado su objetivo de desarrollar un nuevo medicamento. Para dar inicio a la planificación de este proyecto, la empresa requiere recopilar datos relevantes que influyan en la esperanza de vida, tasas de natalidad promedio y otros factores demográficos clave. Esta información será fundamental para determinar la ubicación demográfica más adecuada en la cual invertir y llevar a cabo el desarrollo del medicamento.
 <div style="text-align:center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pfizer.svg/1000px-Pfizer.svg.png" width="200" />
 </div>
